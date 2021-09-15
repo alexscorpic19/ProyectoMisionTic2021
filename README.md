@@ -1,2 +1,2 @@
 # ProyectoMisionTic2022
-Repositorio para proyecto misión tic 2021 ciclo 3
+Repositorio para proyecto misión tic 2022 ciclo 3
